@@ -1,5 +1,5 @@
 # MIT Open Source Competition Repository
-The purpose of this repository is to provide all of the necessary research related to the paper entitled Judgement Under Uncertainty: An Empirical Evaluation of NHL Draft Picks. 
+The purpose of this repository is to provide all research related to the paper entitled Judgement Under Uncertainty: An Empirical Evaluation of NHL Draft Picks. 
 # Draft Trades Dataset
 The Draft Trades Dataset was webscraped from ProSportsTransactions and includes 356 trades from 1980-2020 involving only draft picks. Each row of the csv file includes relevant information on the trade, including picks exchanged and picks received, as well as the year of each draft pick. The 356 draft trades can be separated into two groups: 191 involving picks from the current year, and 165 involving both current and future picks.
 # Point Shares Dataset
